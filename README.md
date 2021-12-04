@@ -1,2 +1,2 @@
-# capteur-de-temp-rature-et-d-humidit-
+# capteur de temprature et d'humidité
 IOT project with python programmation
